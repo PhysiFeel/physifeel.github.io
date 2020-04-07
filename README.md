@@ -2,7 +2,7 @@
 
 Happy Coding
 
-catch on [Link](https://www.physifeel.com)
+catch on [PhysiFeel](https://www.physifeel.com)
 
 
 
